@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="32" viewBox="0 0 64 32" role="img" aria-label="trail car">
+  <defs>
+    <linearGradient id="body" x1="8" x2="58" y1="8" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <path d="M10 21h3l4-8c1-2 3-3 5-3h16c2 0 4 1 5 3l5 8h6c3 0 6 3 6 6v1H5v-1c0-3 2-6 5-6z" fill="url(#body)"/>
+  <path d="M21 13h8v7H17l3-6c0-1 1-1 1-1zm11 0h6c1 0 2 0 2 1l4 6H32v-7z" fill="#dbeafe" opacity=".95"/>
+  <path d="M9 22h49c2 0 3 1 3 3v3H6v-3c0-2 1-3 3-3z" fill="#1e293b"/>
+  <circle cx="19" cy="27" r="5" fill="#0f172a"/>
+  <circle cx="19" cy="27" r="2" fill="#cbd5e1"/>
+  <circle cx="48" cy="27" r="5" fill="#0f172a"/>
+  <circle cx="48" cy="27" r="2" fill="#cbd5e1"/>
+  <path d="M54 15h5l3 3-3 3h-5l3-3-3-3z" fill="#f97316"/>
+</svg>
