@@ -1,4 +1,4 @@
-import{a as H,G as k,W as L,b as A,M as W,P as E,i as P,B as R,c as G,_ as N,v as $,C as j,u as O,j as V,k as I}from"./useCesiumDemo.aPQv5LAF.js";import{d as z,v as U,x as q,q as M,o as h,c as T,j as l,n as F,t as S,k as n,E as B,w as J,b as K,e as D,p as Q}from"./framework.BAr9kJgi.js";import{u as X}from"./useCamera.R2f_92pN.js";import"./commonjsHelpers.Cpj98o6Y.js";const Y={style:{display:"none"}},Z=`
+import{a as H,G as k,W as L,c as A,M as W,P as E,i as P,B as R,b as G,_ as N,v as $,C as j,u as O,j as V,k as I}from"./useCesiumDemo.BPGaYlHw.js";import{d as z,v as U,x as q,q as M,o as h,c as T,j as l,n as F,t as S,k as n,E as B,w as J,b as K,e as D,p as Q}from"./framework.BAr9kJgi.js";import{u as X}from"./useCamera.KWnW_Z80.js";import"./commonjsHelpers.Cpj98o6Y.js";const Y={style:{display:"none"}},Z=`
 czm_material czm_getMaterial(czm_materialInput materialInput)
 {
     czm_material material = czm_getDefaultMaterial(materialInput);
